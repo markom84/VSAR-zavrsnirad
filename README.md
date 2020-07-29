@@ -1,6 +1,6 @@
 __VISOKA ŠKOLA STRUKOVNIH STUDIJA ARANĐELOVAC__
 
-__Marko Maljković__
+__Marko M. Maljković__
 
 # Smart home uz pomoć Raspberry Pi i Blynk IoT platforme
 __ZAVRŠNI RAD__
